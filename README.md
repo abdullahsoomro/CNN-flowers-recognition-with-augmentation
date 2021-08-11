@@ -1,2 +1,2 @@
 # CNN-flowers-recognition-with-augmentation
-CNN on flowers recognition with Augmentation
+This repository codes the CNN on flowers recognistion and comparison with augmentaion
